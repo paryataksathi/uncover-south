@@ -30,36 +30,3 @@
     margin-bottom: 5px;
   }
   
-
-  @media only screen and (max-width: 600px){
-    .last_one{
-      padding: 20px;
-    }
-
-    .a {
-      text-align: center; 
-      margin-bottom: 20px;
-    }
-  
-    .card {
-      text-align: center; /* Center the content in the card */
-      margin-bottom: 20px; /* Space between cards */
-      width: 45%; /* Two cards in one row for mobile */
-      padding: 10px; /* Padding around cards */
-      box-sizing: border-box; /* Include padding in the width */
-    }
-
-    .card-container {
-      display: flex;
-      flex-wrap: wrap; /* Allows cards to wrap onto the next line */
-      justify-content: space-between; /* Space between cards */
-      align-items: center; /* Center cards horizontally */
-    }
-
-    .icon{
-      display: block;
-      margin: 0 auto 10px;    
-    }
-  
-  
-  }
