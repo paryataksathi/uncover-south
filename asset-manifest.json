@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/paryataksathi/uncover-south/static/css/main.11375f74.css",
+    "main.css": "/paryataksathi/uncover-south/static/css/main.e3d503e5.css",
     "main.js": "/paryataksathi/uncover-south/static/js/main.7051d0a5.js",
     "static/media/poster.png": "/paryataksathi/uncover-south/static/media/poster.194c22c3cb0abdcfdd27.png",
     "static/media/qln.png": "/paryataksathi/uncover-south/static/media/qln.c50164c0a8712dee9043.png",
@@ -13,11 +13,11 @@
     "static/media/kovalam.jpg": "/paryataksathi/uncover-south/static/media/kovalam.3fe1d0d9c87f1ec25b78.jpg",
     "static/media/logo.png": "/paryataksathi/uncover-south/static/media/logo.fe3224f6a03d0e1ee93e.png",
     "index.html": "/paryataksathi/uncover-south/index.html",
-    "main.11375f74.css.map": "/paryataksathi/uncover-south/static/css/main.11375f74.css.map",
+    "main.e3d503e5.css.map": "/paryataksathi/uncover-south/static/css/main.e3d503e5.css.map",
     "main.7051d0a5.js.map": "/paryataksathi/uncover-south/static/js/main.7051d0a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.11375f74.css",
+    "static/css/main.e3d503e5.css",
     "static/js/main.7051d0a5.js"
   ]
 }
